@@ -8,4 +8,4 @@ With example scene.
 Mail id: saurabhstudio13960@gmail.com
 
 Unity Asset Store URL:
-https://www.assetstore.unity3d.com/#!/content/72486
+https://assetstore.unity.com/packages/tools/network/internet-checker-72486
